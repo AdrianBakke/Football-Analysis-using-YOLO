@@ -3,3 +3,8 @@
 *.avi
 *.pt
 *football-players-detection-1*
+data/
+venv
+output_videos/
+input_videos/
+
